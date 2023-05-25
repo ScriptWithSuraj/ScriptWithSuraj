@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f1572aab0a069b4070bf0ffeb4125c3884ec51d2595b5242f83c4199de9c450a/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30362f322d34362e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptwithsuraj&label=Profile%20views&color=0e75b6&style=flat" alt="scriptwithsuraj" /> </p>
 
-- 🔭 I’m currently working on [Qtify](https://incredible-genie-faa1db.netlify.app/)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Next.js**
 
